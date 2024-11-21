@@ -43,7 +43,7 @@ Key Metrics and Visualizations:
 4. Ratings by Total Shows:
  * Quantifying impact: By analyzing the top-rated shows, you can identify popular content that drives user engagement and subscription growth.
 5. Genres by Total Shows:
- * Quantifying impact: "Understanding the distribution of genres helps in content curation and personalization efforts, leading to improved user experience."
+ * Quantifying impact: Understanding the distribution of genres helps in content curation and personalization efforts, leading to improved user experience.
 6. Total Shows by Country:
  * Quantifying impact: Analyzing the geographic distribution of content helps in understanding global reach and identifying potential growth markets.
 7. Movies and TV Shows:
