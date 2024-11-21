@@ -34,11 +34,11 @@ Features Interactive Filters: Users can filter the data based on various criteri
 Dynamic Visualizations: Visual elements update dynamically based on user interactions.
 Detailed Insights: Hovering over data points provides additional information and insights.
 
-Usage Opening the Dashboard:
-Open the Power BI Desktop application. Load the Power BI file (.pbix) containing the dashboard. 
-
-Interacting with the Dashboard:
-Use filters and slicers to explore different aspects of the dataset. Hover over visual elements to view detailed insights. Click on data points to drill down into specific information.
+ * Ratings by Total Shows: This bar chart illustrates the distribution of titles across different rating categories (e.g., 13+, 16+, etc.).
+ * Genres by Total Shows: A bar chart displaying the top genres based on the number of titles.
+ * Total Shows by Country: A world map with color-coded countries representing the number of titles originating from each region.
+ * Movies and TV Shows: A pie chart showing the percentage breakdown of movies vs. TV shows.
+ * Total Shows by Release Year: A line chart depicting the trend of title releases over time.
 
 Key Metrics and Visualizations:
  * Total Titles: Displays the total number of movies and TV shows available on Amazon Prime.
@@ -46,15 +46,15 @@ Key Metrics and Visualizations:
  * Total Genres: Lists the total number of distinct genres represented in the catalog.
  * Total Directors: Indicates the total number of directors with titles on the platform.
  * Start Date and End Date: Provides the earliest and latest release years of content available.
-   
-Visualizations:
- * Ratings by Total Shows: This bar chart illustrates the distribution of titles across different rating categories (e.g., 13+, 16+, etc.).
- * Genres by Total Shows: A bar chart displaying the top genres based on the number of titles.
- * Total Shows by Country: A world map with color-coded countries representing the number of titles originating from each region.
- * Movies and TV Shows: A pie chart showing the percentage breakdown of movies vs. TV shows.
- * Total Shows by Release Year: A line chart depicting the trend of title releases over time.
 
-Conclusion This project demonstrates how Power BI can be used to transform raw data into meaningful insights through interactive dashboards. By leveraging the Amazon Prime Video dataset from Kaggle, I was able to create a comprehensive visualization tool that provides valuable insights into the content library of Amazon Prime Video. The dashboard enables users to explore trends, distributions, and detailed information about the available content.
+Usage Opening the Dashboard:
+Open the Power BI Desktop application. Load the Power BI file (.pbix) containing the dashboard. 
+
+Interacting with the Dashboard:
+Use filters and slicers to explore different aspects of the dataset. Hover over visual elements to view detailed insights. Click on data points to drill down into specific information.
+
+Conclusion:
+This project demonstrates how Power BI can be used to transform raw data into meaningful insights through interactive dashboards. By leveraging the Amazon Prime Video dataset from Kaggle, I was able to create a comprehensive visualization tool that provides valuable insights into the content library of Amazon Prime Video. The dashboard enables users to explore trends, distributions, and detailed information about the available content.
 
 
 
