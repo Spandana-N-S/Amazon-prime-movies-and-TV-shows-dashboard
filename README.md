@@ -1,20 +1,11 @@
 # Amazon-prime-movies-and-TV-shows-dashboard
-
-Designed and developed a dynamic Amazon Prime Dashboard using Power BI, utilizing extensive Movies and TV show datasets spanning from 1930 to 2021. This comprehensive dashboard offers real-time insights into Amazon Prime's content library. Users can easily track key metrics, including show ratings, genre distribution, release-year trends, and country-specific content. By incorporating interactive visualizations and drill-down capabilities, the dashboard empowers decision-makers to make data-driven content acquisition and delivery strategies, enhancing the viewer experience and contributing to Amazon Prime's continued success.
-
-The project involves data extraction, transformation, and visualization to present insights into the Amazon Prime Video library.
-
-Data Source:
-kaggle dataset
-
-Introduction:
-The goal of this project was to utilize Power BI to create an interactive and insightful dashboard using the Amazon Prime Video dataset from Kaggle. The dashboard provides visual representations of various metrics and trends related to the Amazon Prime Video library.
+Designed and developed a dynamic Amazon Prime Dashboard using Power BI, utilizing extensive Movies and TV show datasets spanning from 1920 to 2021. This comprehensive dashboard offers real-time insights into Amazon Prime's content library. Users can easily track key metrics, including show ratings, genre distribution, release-year trends, and country-specific content. By incorporating interactive visualizations and drill-down capabilities, the dashboard empowers decision-makers to make data-driven content acquisition and delivery strategies, enhancing the viewer experience and contributing to Amazon Prime's continued success.The project involves data extraction, transformation, and visualization to present insights into the Amazon Prime Video library.
 
 Data Preparation Data Extraction:
 The dataset was downloaded from Kaggle as a CSV file.
 
 Data Cleaning and Transformation:
-Using Power BI, the dataset was imported and cleaned. Missing values were handled appropriately. Data types were corrected to ensure accurate analysis. Additional calculated columns were created to derive new metrics. 
+The dataset was in a state cleaned and ready to load
 
 Data Modeling:
 Relationships between different tables (if any) were established. The data model was optimized for efficient querying and visualization.
@@ -60,12 +51,6 @@ Key Metrics and Visualizations:
 8. Total Shows by Release Year:
  * Quantifying impact: Analyzing the release year distribution helps in identifying trends, understanding content lifecycle, and planning future content acquisitions.
  * Overview: The majority of shows were released between  2018 and 2021. there is a steady increase in the number of shows released over time.
-
-Usage Opening the Dashboard:
-Open the Power BI Desktop application. Load the Power BI file (.pbix) containing the dashboard. 
-
-Interacting with the Dashboard:
-Use filters and slicers to explore different aspects of the dataset. Hover over visual elements to view detailed insights. Click on data points to drill down into specific information.
 
 Conclusion:
 This project demonstrates how Power BI can be used to transform raw data into meaningful insights through interactive dashboards. By leveraging the Amazon Prime Video dataset from Kaggle, I was able to create a comprehensive visualization tool that provides valuable insights into the content library of Amazon Prime Video. The dashboard enables users to explore trends, distributions, and detailed information about the available content.
