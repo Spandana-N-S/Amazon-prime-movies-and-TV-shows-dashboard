@@ -41,11 +41,25 @@ Detailed Insights: Hovering over data points provides additional information and
  * Total Shows by Release Year: A line chart depicting the trend of title releases over time.
 
 Key Metrics and Visualizations:
- * Total Titles: Displays the total number of movies and TV shows available on Amazon Prime.
- * Total Ratings: Shows the number of unique ratings assigned to titles.
- * Total Genres: Lists the total number of distinct genres represented in the catalog.
- * Total Directors: Indicates the total number of directors with titles on the platform.
- * Start Date and End Date: Provides the earliest and latest release years of content available.
+ 1. Total Titles and Ratings:
+ * Quantifying impact: With a total of 9,655 titles and 25 ratings and 519 genres, this dashboard provides a comprehensive overview of the Amazon Prime Video library.
+ * Overview: The majority of shows have a rating of 10. the distribution of rating is skewed towards higher values.
+2. Total Genres and Directors:
+ * Quantifying impact: The presence of 519 genres and 5,777 directors indicates a diverse range of content on Prime Video, catering to various viewer preferences.
+ * Overview: Comedy is the most prevalent genre, followed by drama and spec. there is a wide variety of genres represented.
+3. Start and End Date:
+ * Quantifying impact: The data spans from 1920 to 2021, highlighting the platform's rich history and commitment to providing a wide range of content.
+4. Ratings by Total Shows:
+ * Quantifying impact: By analyzing the top-rated shows, you can identify popular content that drives user engagement and subscription growth.
+5. Genres by Total Shows:
+ * Quantifying impact: "Understanding the distribution of genres helps in content curation and personalization efforts, leading to improved user experience."
+6. Total Shows by Country:
+ * Quantifying impact: Analyzing the geographic distribution of content helps in understanding global reach and identifying potential growth markets.
+7. Movies and TV Shows:
+ * Quantifying impact: Knowing the breakdown between movies and TV shows helps in tailoring content recommendations and marketing strategies.
+8. Total Shows by Release Year:
+ * Quantifying impact: Analyzing the release year distribution helps in identifying trends, understanding content lifecycle, and planning future content acquisitions.
+ * Overview: The majority of shows were released between  2018 and 2021. there is a steady increase in the number of shows released over time.
 
 Usage Opening the Dashboard:
 Open the Power BI Desktop application. Load the Power BI file (.pbix) containing the dashboard. 
